@@ -1,3 +1,12 @@
 [submodule "dofacts-panel-api"]
 	path = dofacts-panel-api
 	url = git@github.com:dook/dofacts-panel-api.git
+[submodule "dofacts-panel"]
+	path = dofacts-panel
+	url = https://github.com/dook/dofacts-panel.git
+[submodule "dofacts-portal"]
+	path = dofacts-portal
+	url = https://github.com/dook/dofacts-portal.git
+[submodule "dofacts-extension"]
+	path = dofacts-extension
+	url = https://github.com/dook/dofacts-extension.git
