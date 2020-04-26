@@ -10,3 +10,6 @@
 [submodule "dofacts-panel-api"]
 	path = dofacts-panel-api
 	url = https://github.com/dook/dofacts-panel-api.git
+[submodule "dofacts-collector"]
+	path = dofacts-collector
+	url = git@github.com:dook/dofacts-collector.git
