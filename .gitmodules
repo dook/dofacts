@@ -13,3 +13,6 @@
 [submodule "dofacts-collector"]
 	path = dofacts-collector
 	url = git@github.com:dook/dofacts-collector.git
+[submodule "dofacts-portal-api"]
+	path = dofacts-portal-api
+	url = https://github.com/dook/dofacts-portal-api.git
