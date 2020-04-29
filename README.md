@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/dook/dofacts/db74541b6a7e2274f9f521772ecc4985feac82bb/assets/logo.svg)
+
 # DoFacts!
 
 DoFacts is an open-source project created due to pandemic. It faces up to too much information about COVID-19 where true and fake news intertwine.
