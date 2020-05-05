@@ -10,8 +10,8 @@ Project is split into a few parts:
 - *collector* - collects reports from extension and distribute them between fact-checkers
 - *panel* - frontend app for verifying news
 - *panel-api* - api for panel
-- *panel* - website for displaying verified information
-- *panel-api* - api for portal
+- *portal* - website for displaying verified information
+- *portal-api* - api for portal
 
 Thanks to division to multiple services DoFacts is able to handle huge traffic without problems. Even if any service will fail the rest of them will be still available for users.
 
